@@ -1,9 +1,7 @@
-
+![Hey there, I'm Saurav. An aspiring software developer and infosec enthusiast. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/background/background.gif)
 
 <!--
 **SauravJalui/SauravJalui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Hey there, I'm Saurav. An aspiring software developer and infosec enthusiast. Check out my work](https://github.com/SauravJalui/SauravJalui/tree/master/background/background.gif)
 
 Here are some ideas to get you started:
 
