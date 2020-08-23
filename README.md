@@ -1,4 +1,4 @@
-![Hey there, I'm Saurav. An aspiring software developer and infosec enthusiast. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/background/background.gif)
+![Hey there, I'm Saurav. An aspiring software developer and infosec enthusiast. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
 
 ## Hi there, I'm Saurav 👋
 
