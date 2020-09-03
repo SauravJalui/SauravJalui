@@ -4,7 +4,7 @@
 ## Nice to see you here!
 
 
-### I'm an Aspiring Developer, an InfoSec enthusiast and interested in Game Development.
+### I'm an Upcoming Developer, an InfoSec enthusiast and interested in Game Development.
 
 - 🔭 I’m currently working on [Python scripts for Ethical Hacking.](https://github.com/SauravJalui/python-and-ethical-hacking)
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
@@ -19,7 +19,6 @@
 [<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
 [<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Saurav Jalui | Instagram" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/instagram.png" />][instagram]
-[<img align="left" alt="Saurav Jalui | Facebook" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/facebook.png" />][facebook]
 [<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
 
 <br />
@@ -49,7 +48,6 @@
 [twitter]: https://twitter.com/JaluiSaurav
 [instagram]: https://instagram.com/jalui.saurav
 [linkedin]: https://linkedin.com/in/SauravJalui
-[facebook]: https://facebook.com/saurav.jalui.92
 [email]: mailto:sauravjalui.007@gmail.com
 [python]: https://www.python.org/
 [vscode]: https://code.visualstudio.com
