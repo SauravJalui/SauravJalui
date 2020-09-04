@@ -6,11 +6,11 @@
 
 ### I'm an Upcoming Developer, an InfoSec enthusiast and interested in Game Development.
 
-- 🔭 I’m currently working on [Python scripts for Ethical Hacking.](https://github.com/SauravJalui/python-and-ethical-hacking)
+- 🔭 I’m currently working on [MongoDb](https://university.mongodb.com/)
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 - 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 - 🥅 2020 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love to ride my bike and explore places.
+- ⚡ Fun fact: I love to ride my bike and explore new places.
 
 
 
