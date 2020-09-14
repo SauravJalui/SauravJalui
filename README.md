@@ -1,10 +1,10 @@
-![Hey there, I'm Saurav. An aspiring software developer and infosec enthusiast. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
+![Hey there, I'm Saurav. An aspiring software developer and python fanatic. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
 
 
 ## Nice to see you here!
 
 
-### I'm an Upcoming Developer, an InfoSec enthusiast and interested in Game Development.
+### I'm an Upcoming Developer, a Python fanatic and interested in Game Development.
 
 - 🔭 I’m currently working on [MongoDb](https://university.mongodb.com/)
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
