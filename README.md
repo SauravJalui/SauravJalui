@@ -1,15 +1,16 @@
-![Hey there, I'm Saurav. An aspiring software developer and infosec enthusiast. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/background/background.gif)
-
-## Hi there, I'm Saurav 👋
+![Hey there, I'm Saurav. An aspiring software developer and python fanatic. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
 
 
-### I'm an Aspiring Developer, an InfoSec enthusiast and interested in Game Development.
+## Nice to see you here!
 
-- 🔭 I’m currently working on [Python scripts for Ethical Hacking.](https://github.com/SauravJalui/python-and-ethical-hacking)
+
+### I'm an Upcoming Developer, a Python fanatic and interested in Game Development.
+
+- 🔭 I’m currently working on [MongoDb](https://university.mongodb.com/)
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 - 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 - 🥅 2020 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love to ride my bike and explore places.
+- ⚡ Fun fact: I love to ride my bike and explore new places.
 
 
 
@@ -18,7 +19,6 @@
 [<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
 [<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Saurav Jalui | Instagram" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/instagram.png" />][instagram]
-[<img align="left" alt="Saurav Jalui | Facebook" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/facebook.png" />][facebook]
 [<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
 
 <br />
@@ -48,7 +48,6 @@
 [twitter]: https://twitter.com/JaluiSaurav
 [instagram]: https://instagram.com/jalui.saurav
 [linkedin]: https://linkedin.com/in/SauravJalui
-[facebook]: https://facebook.com/saurav.jalui.92
 [email]: mailto:sauravjalui.007@gmail.com
 [python]: https://www.python.org/
 [vscode]: https://code.visualstudio.com
