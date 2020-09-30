@@ -6,7 +6,7 @@
 
 ### I'm a Python Fanatic 🐍| Django buff 🚀| Automation enthusiast 👨‍💻 | Bot master 🤖
 
-- 🔭 I’m currently working on [MongoDb](https://university.mongodb.com/)
+- 🔭 I’m currently working on [Django]()
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 - 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 - 🥅 2020 Goals: Start contributing to Open Source projects.
