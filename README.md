@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on [Django]()
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
-- 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 - 🥅 2020 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to ride my bike and explore new places.
 
@@ -44,6 +43,7 @@
 [<img align="left" alt="C#" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/csharp.png" />]
 [<img align="left" alt="Flutter" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/flutter.png" />]
 [<img align="left" alt="Dart" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/dart.png" />]
+- 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 -->
 
 [twitter]: https://twitter.com/JaluiSaurav
