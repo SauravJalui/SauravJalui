@@ -6,10 +6,10 @@
 
 ### I'm a Python Fanatic 🐍| Django buff 🚀| Automation enthusiast 👨‍💻 | Bot master 🤖
 
-- 🔭 I’m currently working on [Django]()
+- 🔭 I’m currently working on [Python APIs with Django REST](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 - 🥅 2020 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love to ride my bike and explore new places.
+- ⚡ Fun fact: I've unofficially completed the Iron Butt challenge 🏍️
 
 
 
@@ -32,6 +32,8 @@
 [<img align="left" alt="Linux" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"/>][linux]
 [<img align="left" alt="Terminal" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"/>][terminal]
 [<img align="left" alt="API" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"/>][api]
+[<img align="left" alt="Django" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/django.png"/>][django]
+
 <!--
 [<img align="left" alt="MongoDB" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/mongodb.png" />]
 [<img align="left" alt="Redis" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png" />]
@@ -57,7 +59,7 @@
 [linux]: https://www.linux.org
 [terminal]: https://www.gnu.org/software/bash/
 [api]: https://en.wikipedia.org/wiki/Representational_state_transfer
-
+[django]: https://www.thedjangoproject.com
 <!--
 **SauravJalui/SauravJalui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
