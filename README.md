@@ -4,11 +4,10 @@
 ## Nice to see you here!
 
 
-### I'm an Upcoming Developer, a Python fanatic and interested in Game Development.
+### I'm a Python Fanatic 🐍| Django buff 🚀| Automation enthusiast 👨‍💻 | Bot master 🤖
 
-- 🔭 I’m currently working on [MongoDb](https://university.mongodb.com/)
+- 🔭 I’m currently working on [Django]()
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
-- 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 - 🥅 2020 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to ride my bike and explore new places.
 
@@ -32,6 +31,7 @@
 [<img align="left" alt="GitHub" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>][github]
 [<img align="left" alt="Linux" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"/>][linux]
 [<img align="left" alt="Terminal" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"/>][terminal]
+[<img align="left" alt="API" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"/>][api]
 <!--
 [<img align="left" alt="MongoDB" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/mongodb.png" />]
 [<img align="left" alt="Redis" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png" />]
@@ -43,6 +43,7 @@
 [<img align="left" alt="C#" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/csharp.png" />]
 [<img align="left" alt="Flutter" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/flutter.png" />]
 [<img align="left" alt="Dart" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/dart.png" />]
+- 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 -->
 
 [twitter]: https://twitter.com/JaluiSaurav
@@ -55,7 +56,7 @@
 [github]: https://github.com/SauravJalui
 [linux]: https://www.linux.org
 [terminal]: https://www.gnu.org/software/bash/
-
+[api]: https://en.wikipedia.org/wiki/Representational_state_transfer
 
 <!--
 **SauravJalui/SauravJalui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
