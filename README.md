@@ -17,7 +17,6 @@
 
 [<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
 [<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Saurav Jalui | Instagram" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/instagram.png" />][instagram]
 [<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
 
 <br />
@@ -46,10 +45,11 @@
 [<img align="left" alt="Flutter" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/flutter.png" />]
 [<img align="left" alt="Dart" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/dart.png" />]
 - 👯 I’m looking to collaborate with other developers in helping solve interview questions.
+[<img align="left" alt="Saurav Jalui | Instagram" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/instagram.png" />][instagram]
+[instagram]: https://instagram.com/jalui.saurav
 -->
 
 [twitter]: https://twitter.com/JaluiSaurav
-[instagram]: https://instagram.com/jalui.saurav
 [linkedin]: https://linkedin.com/in/SauravJalui
 [email]: mailto:sauravjalui.007@gmail.com
 [python]: https://www.python.org/
