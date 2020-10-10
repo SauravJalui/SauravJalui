@@ -25,13 +25,15 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png"/>][python]
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"/>][vscode]
-[<img align="left" alt="Git" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"/>][git]
-[<img align="left" alt="GitHub" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>][github]
-[<img align="left" alt="Linux" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"/>][linux]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"/>][vscode]
+[<img align="left" alt="Git" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"/>][git]
+[<img align="left" alt="GitHub" width="36px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>][github]
+[<img align="left" alt="Linux" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"/>][linux]
+[<img align="left" alt="Heroku" width="33px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/heroku.png"/>][heroku]
 [<img align="left" alt="Terminal" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"/>][terminal]
 [<img align="left" alt="API" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"/>][api]
 [<img align="left" alt="Django" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/django.png"/>][django]
+
 
 <!--
 [<img align="left" alt="MongoDB" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/mongodb.png" />]
@@ -60,6 +62,8 @@
 [terminal]: https://www.gnu.org/software/bash/
 [api]: https://en.wikipedia.org/wiki/Representational_state_transfer
 [django]: https://www.thedjangoproject.com
+[heroku]: https://www.heroku.com
+
 <!--
 **SauravJalui/SauravJalui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
