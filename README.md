@@ -6,7 +6,7 @@
 
 ### I'm a Python Fanatic 🐍| Django buff 🚀| Automation enthusiast 👨‍💻 | Bot master 🤖
 
-- 🔭 I’m currently working on [Python APIs with Django REST](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)
+- 🔭 I’m currently working on [Python APIs with Django REST Framework](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)
 - 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
 - 🥅 2020 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I've unofficially completed the Iron Butt challenge 🏍️
@@ -53,7 +53,7 @@
 
 [twitter]: https://twitter.com/JaluiSaurav
 [linkedin]: https://linkedin.com/in/SauravJalui
-[email]: mailto:sauravjalui.007@gmail.com
+[email]: mailto:saurav.jalui-dev@outlook.com
 [python]: https://www.python.org/
 [vscode]: https://code.visualstudio.com
 [git]: https://git-scm.com
