@@ -1,14 +1,14 @@
-![Hey there, I'm Saurav. An aspiring software developer and python fanatic. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
+<!--![Hey there, I'm Saurav. An aspiring software developer and python fanatic. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
+-->
 
-
-## Nice to see you here!
+## Hey there 👋, Nice to see you here!
 
 
 ### I'm a Python Fanatic 🐍| Django buff 🚀| Automation enthusiast 👨‍💻 | Bot master 🤖
 
-- 🔭 I’m currently working on [Python APIs with Django REST Framework](https://www.udemy.com/course/creating-apis-with-the-django-rest-framework-python/)
-- 🌱 I’m currently learning [Data structures and Algorithms in Python.](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
-- 🥅 2020 Goals: Start contributing to Open Source projects.
+- 🔭 I’m currently working on becoming a Full Stack Developer.
+- 🌱 I’m currently learning Django.
+- 🥅 2021 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I've unofficially completed the Iron Butt challenge 🏍️
 
 
