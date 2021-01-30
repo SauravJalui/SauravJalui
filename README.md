@@ -15,9 +15,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
 [<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
+[<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
 
 <br />
 <br />
