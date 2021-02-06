@@ -39,9 +39,9 @@
 [<img align="left" alt="API" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"/>][api]
 [<img align="left" alt="Celery" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"/>][celery]
 [<img align="left" alt="RabbitMQ" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"/>][rabbitmq]
-[<img align="left" alt="Gunicorn" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/gunicorn.png"/>][gunicorn]
+[<img align="left" alt="Gunicorn" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/gunicorn.png"/>][gunicorn]
 [<img align="left" alt="Sphinx" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"/>][sphinx]
-[<img align="left" alt="Nginx" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/nginx.png"/>][nginx]
+[<img align="left" alt="Nginx" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/nginx.png"/>][nginx]
 
 
 
