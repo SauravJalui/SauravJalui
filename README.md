@@ -26,7 +26,7 @@
 
 [<img align="left" alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png"/>][python]
 [<img align="left" alt="Django" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/django.png"/>][django]
-[<img align="left" alt="Javascript" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascipt.png"/>][javascript]
+[<img align="left" alt="Javascript" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"/>][javascript]
 [<img align="left" alt="Jquery" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/jquery.png"/>][jquery]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"/>][postgresql]
 [<img align="left" alt="Redis" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png" />]
@@ -41,7 +41,7 @@
 [<img align="left" alt="RabbitMQ" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"/>][rabbitmq]
 [<img align="left" alt="Gunicorn" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/gunicorn.png"/>][gunicorn]
 [<img align="left" alt="Sphinx" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"/>][sphinx]
-[<img align="left" alt="Nginx" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/nginx.png"/>][nginx]
+[<img align="left" alt="Nginx" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/nginx.png"/>][nginx]
 
 
 
