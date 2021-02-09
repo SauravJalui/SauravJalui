@@ -35,7 +35,6 @@
 [<img align='left' alt="AWS" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/aws.png"/>][aws]
 [<img align='left' alt="VisualStudioCode" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"/>][vscode]
 [<img align='left' alt="Git" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"/>][git]
-[<img align='left' alt="GitHub" width="36px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>][github]
 [<img align='left' alt="Sphinx" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"/>][sphinx]
 [<img align='left' alt="Nginx" width="30px" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"/>][nginx]
 [<img align='left' alt="Linux" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"/>][linux]
@@ -49,6 +48,7 @@
 
 
 <!--
+[<img align='left' alt="GitHub" width="36px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>][github]
 [<img align="left" alt="Django" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/django.png"/>][django]
 [<img align="left" alt="Nginx" width="30px" src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/03/Nginx-Reverse-proxy.png?fit=1200%2C630&ssl=1"/>][nginx]
 [<img align="left" alt="MongoDB" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/mongodb.png" />]
