@@ -1,7 +1,7 @@
 <!--![Hey there, I'm Saurav. An aspiring software developer and python fanatic. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
 -->
 
-## Hey there 👋, Nice to see you here!
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nice to see you here!
 
 
 ### I'm a Python Fanatic 🐍| Django buff 🚀| Automation enthusiast 👨‍💻 | Bot master 🤖
@@ -23,7 +23,37 @@
 
 ### Languages and Tools:
 
-[<img align='left' alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png"/>][python]
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/jquery.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/aws.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"></code>
+<code><img height="30" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/heroku.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"></code>
+<code><img height="30" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"></code>
+<code><img height="27" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png"></code>
+
+
+
+
+
+[twitter]: https://twitter.com/JaluiSaurav
+[linkedin]: https://linkedin.com/in/SauravJalui
+[email]: mailto:saurav.jalui-dev@outlook.com
+
+<!--
+[<img align='left' alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png" />][python]
 [<img align='left' alt="HTML" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align='left' alt="CSS" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align='left' alt="Javascript" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"/>][javascript]
@@ -42,10 +72,8 @@
 [<img align='left' alt="Terminal" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"/>][terminal]
 [<img align='left' alt="Celery" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"/>][celery]
 [<img align='left' alt="RabbitMQ" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"/>][rabbitmq]
-[<img align='left' alt="Gunicorn" width="40px" height="28px" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png"/>][gunicorn]
-
-
-
+[<img align='left' alt="Gunicorn" width="40px" height="28px" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png" />][gunicorn]
+-->
 
 <!--
 [<img align='left' alt="GitHub" width="36px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>][github]
@@ -61,13 +89,10 @@
 [<img align="left" alt="Dart" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/dart.png" />]
 - 👯 I’m looking to collaborate with other developers in helping solve interview questions.
 [<img align="left" alt="Saurav Jalui | Instagram" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/instagram.png" />][instagram]
-[instagram]: https://instagram.com/jalui.saurav
 -->
 
-[twitter]: https://twitter.com/JaluiSaurav
-[linkedin]: https://linkedin.com/in/SauravJalui
-[email]: mailto:saurav.jalui-dev@outlook.com
-
+<!--
+[instagram]: https://instagram.com/jalui.saurav
 [python]: https://www.python.org/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -89,7 +114,7 @@
 [celery]: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 [rabbitmq]: https://www.rabbitmq.com/
 [gunicorn]: https://gunicorn.org/
-
+-->
 
 
 
