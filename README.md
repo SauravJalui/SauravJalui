@@ -20,31 +20,30 @@
 [<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
 
 <br>
-<br>
 
 ### Languages and Tools:
 
-[<img alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png"/>]
-[<img alt="HTML" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
-[<img alt="CSS" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>]
-[<img alt="Javascript" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"/>]
-[<img alt="Jquery" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/jquery.png"/>]
-[<img alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>]
-[<img alt="API" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"/>]
-[<img alt="PostgreSQL" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"/>]
-[<img alt="Redis" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"/>]
-[<img alt="AWS" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/aws.png"/>]
-[<img alt="VisualStudioCode" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"/>]
-[<img alt="Git" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"/>]
-[<img alt="GitHub" width="36px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>]
-[<img alt="Sphinx" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"/>]
-[<img alt="Nginx" width="30px" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"/>]
-[<img alt="Linux" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"/>]
-[<img alt="Heroku" width="33px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/heroku.png"/>]
-[<img alt="Terminal" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"/>]
-[<img alt="Celery" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"/>]
-[<img alt="RabbitMQ" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"/>]
-[<img alt="Gunicorn" width="40px" height="28px" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png"/>]
+[<img align='left' alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png"/>][python]
+[<img align='left' alt="HTML" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
+[<img align='left' alt="CSS" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
+[<img align='left' alt="Javascript" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"/>][javascript]
+[<img align='left' alt="Jquery" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/jquery.png"/>][jquery]
+[<img align='left' alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>][django]
+[<img align='left' alt="API" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"/>][api]
+[<img align='left' alt="PostgreSQL" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"/>][postgresql]
+[<img align='left' alt="Redis" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"/>][redis]
+[<img align='left' alt="AWS" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/aws.png"/>][aws]
+[<img align='left' alt="VisualStudioCode" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"/>][vscode]
+[<img align='left' alt="Git" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"/>][git]
+[<img align='left' alt="GitHub" width="36px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/github.png"/>][github]
+[<img align='left' alt="Sphinx" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"/>][sphinx]
+[<img align='left' alt="Nginx" width="30px" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"/>][nginx]
+[<img align='left' alt="Linux" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"/>][linux]
+[<img align='left' alt="Heroku" width="33px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/heroku.png"/>][heroku]
+[<img align='left' alt="Terminal" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"/>][terminal]
+[<img align='left' alt="Celery" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"/>][celery]
+[<img align='left' alt="RabbitMQ" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"/>][rabbitmq]
+[<img align='left' alt="Gunicorn" width="40px" height="28px" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png"/>][gunicorn]
 
 
 
@@ -69,27 +68,32 @@
 [linkedin]: https://linkedin.com/in/SauravJalui
 [email]: mailto:saurav.jalui-dev@outlook.com
 
-<!--
 [python]: https://www.python.org/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javascript]: https://www.javascript.com/
+[jquery]: https://jquery.com/
+[django]: https://www.thedjangoproject.com
+[api]: https://en.wikipedia.org/wiki/Representational_state_transfer
+[postgresql]: https://www.postgresql.org/
+[redis]: https://redis.io/
+[aws]: https://aws.amazon.com/
 [vscode]: https://code.visualstudio.com
 [git]: https://git-scm.com
 [github]: https://github.com/SauravJalui
-[linux]: https://www.linux.org
-[terminal]: https://www.gnu.org/software/bash/
-[api]: https://en.wikipedia.org/wiki/Representational_state_transfer
-[django]: https://www.thedjangoproject.com
-[heroku]: https://www.heroku.com
-[nginx]: https://nginx.org/en/
 [sphinx]: https://www.sphinx-doc.org/en/master/
-[redis]: https://redis.io/
-[javascript]: https://www.javascript.com/
-[jquery]: https://jquery.com/
+[nginx]: https://nginx.org/en/
+[linux]: https://www.linux.org
+[heroku]: https://www.heroku.com
+[terminal]: https://www.gnu.org/software/bash/
 [celery]: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 [rabbitmq]: https://www.rabbitmq.com/
 [gunicorn]: https://gunicorn.org/
-[postgresql]: https://www.postgresql.org/
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+
+
+
+<!--
 **SauravJalui/SauravJalui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
