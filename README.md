@@ -6,7 +6,9 @@
 
 ### I'm a Python Fanatic 🐍| Django buff 🚀| Automation enthusiast 👨‍💻 | Bot master 🤖
 
-- 🔭 I’m currently working on becoming a Full Stack Developer.
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+- 🔭 I’m currently working on becoming a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Django.
 - 🥅 2021 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I've unofficially completed the Iron Butt challenge 🏍️
@@ -57,11 +59,24 @@
 <code><img height="30" title="AdobeXD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png.png"></code>
 
 
+
 [twitter]: https://twitter.com/JaluiSaurav
 [linkedin]: https://linkedin.com/in/SauravJalui
 [email]: mailto:saurav.jalui-dev@outlook.com
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SauravJalui" alt="SauravJalui's Visitors" /> 
+</p>
+
 <!--
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/SauravJalui/count.svg" alt="Visitor Count"/ title="Total Visitors">
+</p>
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=SauravJalui&hide_title=true&hide_border=true&langs_count=5) This displays the 5 languages I worked with 
+<p align="center"> This is github trophies
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+Number of visitors on my page : ![](https://visitor-badge.glitch.me/badge?page_id=SauravJalui.SauravJalui)
 [<img align='left' alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png" />][python]
 [<img align='left' alt="HTML" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align='left' alt="CSS" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
@@ -125,7 +140,9 @@
 [gunicorn]: https://gunicorn.org/
 -->
 
-
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=SauravJalui&theme=radical&show_icons=true" alt="Saurav's Github Stats" />
+-->
 
 <!--
 **SauravJalui/SauravJalui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
