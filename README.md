@@ -29,9 +29,10 @@
 
 **Currently working with:**
 
-<code><img height="30" title="Python" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png"></code>
+<code><img height="28" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="32" title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png"></code>
 <code><img height="30" title="Javascript" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"></code>
 <code><img height="30" title="Jquery" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/jquery.png"></code>
 <code><img height="30" title="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -39,7 +40,7 @@
 <code><img height="30" title="PostgreSQL" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"></code>
 <code><img height="30" title="Redis" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"></code>
 <code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
-<code><img height="30" title="Docker" src="https://tr3.cbsistatic.com/hub/i/r/2016/10/18/831f017c-ee68-4bd6-8a5c-ab31b4d35d6d/resize/1200x/1d727d94737ac8571d079efce9a035af/dockerhero.jpg"></code>
+<code><img height="25" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 <code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
 <code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
 <code><img height="30" title="Linux" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"></code>
@@ -48,7 +49,7 @@
 <code><img height="30" title="Nginx" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"></code>
 <code><img height="30" title="Heroku" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/heroku.png"></code>
 <code><img height="30" title="Celery" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"></code>
-<code><img height="30" title="RabbitMQ" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"></code>
+<code><img height="26" title="RabbitMQ" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png"></code>
 <code><img height="27" title="Gunicorn" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png"></code>
 
 
@@ -57,6 +58,14 @@
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <code><img height="30" title="AdobeXD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png.png"></code>
 
+**Want to learn:**
+
+<code><img height="30" title="React" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"></code>
+<code><img height="30" title="Typescript" src="https://decodenatura.com/static/26cc95f255ccb936d154b43614f61602/ts.png"></code>
+<code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="32" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8xjiu1Hz8Pm19t8udqO33MYBCRDfmO8TRg&usqp=CAU"></code>
+<code><img height="32" title="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="36" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
 
 [twitter]: https://twitter.com/JaluiSaurav
