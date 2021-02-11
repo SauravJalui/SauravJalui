@@ -41,6 +41,7 @@
 <code><img height="30" title="Redis" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"></code>
 <code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
 <code><img height="25" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+<code><img height="30" title="Postman" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postman.png"></code>
 <code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
 <code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
 <code><img height="30" title="Linux" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"></code>
@@ -55,6 +56,7 @@
 
 **Learning:**
 
+<code><img height="30" title="Data Structures and Algorithms" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png"></code>
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <code><img height="30" title="AdobeXD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png.png"></code>
 
