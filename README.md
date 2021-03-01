@@ -74,6 +74,16 @@
 [linkedin]: https://linkedin.com/in/SauravJalui
 [email]: mailto:saurav.jalui-dev@outlook.com
 
+
+
+### Show some <img src="https://www.desicomments.com/dc/25/66676/66676.gif" width="25px"> by <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> some of the repositories!
+<!--
+gold star :
+https://www.bhpsnj.org/cms/lib/NJ01001806/Centricity/Domain/410/star.gif
+heart : 
+https://media1.tenor.com/images/5604f62d7919dcc5bbeaa4cbc307f60c/tenor.gif?itemid=5288615
+http://www.clipartbest.com/cliparts/7Ta/oB9/7TaoB9rbc.gif
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=SauravJalui" alt="SauravJalui's Visitors" /> 
 </p>
