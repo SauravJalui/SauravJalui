@@ -4,10 +4,10 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nice to see you here!
 
 
-### I'm a Backend Software Engineer 💻 who is passionate about solving real world problems using Python 🐍 and Django 🚀
+### I'm a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is passionate about solving real world problems using Python 🐍 and Django 🚀
 
 
-- 🔭 I’m currently working on becoming a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on becoming a Full Stack Developer 
 - 🌱 I’m currently learning Django.
 - 🥅 2021 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I've unofficially completed the Iron Butt challenge 🏍️
