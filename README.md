@@ -7,10 +7,10 @@
 ### I'm a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is passionate about solving real world problems using Python 🐍 and Django 🚀
 
 
-- 🔭 I’m currently working on becoming a Full Stack Developer 
-- 🌱 I’m currently learning Django.
+- 🔭 I’m currently working on a blog series teaching Django from scratch.
+- 🌱 I’m currently learning NodeJS.
 - 🥅 2021 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I've unofficially completed the Iron Butt challenge 🏍️
+- ⚡ Fun fact: I've unofficially completed the Iron Butt challenge (Mumbai to Kolkata) 🏍️
 
 
 
@@ -59,14 +59,14 @@
 <code><img height="30" title="Data Structures and Algorithms" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png"></code>
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <code><img height="30" title="AdobeXD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png.png"></code>
+<code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="32" title="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
 **Want to learn:**
 
 <code><img height="30" title="React" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"></code>
 <code><img height="30" title="Typescript" src="https://decodenatura.com/static/26cc95f255ccb936d154b43614f61602/ts.png"></code>
-<code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="32" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8xjiu1Hz8Pm19t8udqO33MYBCRDfmO8TRg&usqp=CAU"></code>
-<code><img height="32" title="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="36" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
 
