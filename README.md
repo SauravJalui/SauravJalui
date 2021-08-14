@@ -64,7 +64,7 @@
 
 **Want to learn:**
 
-<code><img height="30" title="React" src="https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png"></code>
+<code><img height="30" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" title="Typescript" src="https://decodenatura.com/static/26cc95f255ccb936d154b43614f61602/ts.png"></code>
 <code><img height="32" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8xjiu1Hz8Pm19t8udqO33MYBCRDfmO8TRg&usqp=CAU"></code>
 <code><img height="36" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
