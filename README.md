@@ -29,29 +29,15 @@
 
 **Currently working with:**
 
-<code><img height="28" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
+
 <code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="32" title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png"></code>
 <code><img height="30" title="Javascript" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"></code>
-<code><img height="30" title="Jquery" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/jquery.png"></code>
-<code><img height="30" title="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" title="REST API" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"></code>
-<code><img height="30" title="PostgreSQL" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"></code>
-<code><img height="30" title="Redis" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"></code>
-<code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
-<code><img height="25" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
-<code><img height="30" title="Postman" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postman.png"></code>
 <code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
 <code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
-<code><img height="30" title="Linux" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"></code>
 <code><img height="30" title="Terminal" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"></code>
-<code><img height="30" title="Sphinx" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"></code>
-<code><img height="30" title="Nginx" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"></code>
-<code><img height="30" title="Heroku" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/heroku.png"></code>
-<code><img height="30" title="Celery" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"></code>
-<code><img height="26" title="RabbitMQ" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png"></code>
-<code><img height="27" title="Gunicorn" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png"></code>
+
 
 
 **Learning:**
@@ -68,6 +54,25 @@
 <code><img height="30" title="Typescript" src="https://decodenatura.com/static/26cc95f255ccb936d154b43614f61602/ts.png"></code>
 <code><img height="32" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8xjiu1Hz8Pm19t8udqO33MYBCRDfmO8TRg&usqp=CAU"></code>
 <code><img height="36" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+
+**Previously worked with:**
+
+<code><img height="28" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
+<code><img height="30" title="Sphinx" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"></code>
+<code><img height="30" title="Nginx" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"></code>
+<code><img height="30" title="Heroku" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/heroku.png"></code>
+<code><img height="30" title="Celery" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"></code>
+<code><img height="26" title="RabbitMQ" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png"></code>
+<code><img height="27" title="Gunicorn" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png"></code>
+<code><img height="30" title="Linux" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Linux.png"></code>
+<code><img height="30" title="Postman" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postman.png"></code>
+<code><img height="30" title="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="30" title="REST API" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/api.png"></code>
+<code><img height="30" title="PostgreSQL" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"></code>
+<code><img height="30" title="Redis" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"></code>
+<code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
+<code><img height="25" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+
 
 
 [twitter]: https://twitter.com/JaluiSaurav
@@ -100,6 +105,7 @@ http://www.clipartbest.com/cliparts/7Ta/oB9/7TaoB9rbc.gif
   <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 Number of visitors on my page : ![](https://visitor-badge.glitch.me/badge?page_id=SauravJalui.SauravJalui)
+<code><img height="30" title="Jquery" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/jquery.png"></code>
 [<img align='left' alt="Python" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/python.png" />][python]
 [<img align='left' alt="HTML" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align='left' alt="CSS" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
