@@ -7,7 +7,9 @@
 ### I'm a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is passionate about solving real world problems using Python 🐍 and Django 🚀
 
 
-- 🔭 I’m currently working on a blog series teaching Django from scratch.
+- 🔭 I’m currently working on:
+  -  A blog series teaching Django from scratch.
+  -   Responsive Design
 - 🌱 I’m currently learning NodeJS.
 - 🥅 2021 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I've unofficially completed the Iron Butt challenge (Mumbai to Kolkata) 🏍️
