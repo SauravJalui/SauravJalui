@@ -34,7 +34,7 @@
 
 <code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="32" title="TailwindCSS" src="https://img.icons8.com/color/452/tailwindcss.png"></code>
+<code><img height="32" title="TailwindCSS" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/tailwindcss.png"></code>
 <code><img height="30" title="Javascript" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"></code>
 <code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
 <code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
@@ -48,7 +48,7 @@
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 
 
-**Want to learn:**
+<!-- **Want to learn:**
 
 <code><img height="30" title="Data Structures and Algorithms" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png"></code>
 <code><img height="30" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -75,9 +75,9 @@
 <code><img height="30" title="PostgreSQL" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/postgresql.png"></code>
 <code><img height="30" title="Redis" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"></code>
 <code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
-<code><img height="25" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+<code><img height="30" title="Docker" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/docker.png"></code>
 
-
+ -->
 
 [twitter]: https://twitter.com/JaluiSaurav
 [linkedin]: https://linkedin.com/in/SauravJalui
