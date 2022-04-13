@@ -1,19 +1,19 @@
 <!--![Hey there, I'm Saurav. An aspiring software developer and python fanatic. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
 -->
 
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nice to see you here!
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, So nice of you to come visit me here!
 
 
-### I'm a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is passionate about solving real world problems using Python 🐍 and Django 🚀
+### I'm a  Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who does a little bit of everything using the tools available.
 
 
 - 🔭 I’m currently working on:
   -  A blog series teaching Django from scratch.
   -   Responsive Design
-- 🌱 I’m currently learning NodeJS.
-- 🥅 2021 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I've unofficially completed the Iron Butt challenge (Mumbai to Kolkata) 🏍️
-
+- 🌱 I’m currently deeply learning Frontend technologies.
+- 🥅 2022 Goals: Start contributing to Open Source projects.
+- ⚡ Fun fact: I love riding bikes🏍️. My longest ride being Mumbai to Kolkata. 
+- 💬 Ask me about anything.
 
 
 ### Connect with me:
@@ -34,7 +34,7 @@
 
 <code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="32" title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png"></code>
+<code><img height="32" title="TailwindCSS" src="https://img.icons8.com/color/452/tailwindcss.png"></code>
 <code><img height="30" title="Javascript" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"></code>
 <code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
 <code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
@@ -44,21 +44,23 @@
 
 **Learning:**
 
-<code><img height="30" title="Data Structures and Algorithms" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png"></code>
+
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
-<code><img height="30" title="AdobeXD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png.png"></code>
-<code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="32" title="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+
 
 **Want to learn:**
 
+<code><img height="30" title="Data Structures and Algorithms" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png"></code>
 <code><img height="30" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" title="Typescript" src="https://decodenatura.com/static/26cc95f255ccb936d154b43614f61602/ts.png"></code>
 <code><img height="32" title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa8xjiu1Hz8Pm19t8udqO33MYBCRDfmO8TRg&usqp=CAU"></code>
 <code><img height="36" title="Webpack" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="30" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="32" title="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
 **Previously worked with:**
 
+<code><img height="32" title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png"></code>
 <code><img height="28" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="30" title="Sphinx" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"></code>
 <code><img height="30" title="Nginx" src="https://www.splunk.com/content/dam/splunk-blogs/images/2017/02/nginx-logo.png"></code>
@@ -128,6 +130,7 @@ Number of visitors on my page : ![](https://visitor-badge.glitch.me/badge?page_i
 [<img align='left' alt="Celery" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/celery.png"/>][celery]
 [<img align='left' alt="RabbitMQ" width="32px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/rabbitmq.png"/>][rabbitmq]
 [<img align='left' alt="Gunicorn" width="40px" height="28px" src="https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png" />][gunicorn]
+<code><img height="30" title="AdobeXD" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png.png"></code>
 -->
 
 <!--
