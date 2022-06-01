@@ -4,7 +4,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, So nice of you to come visit me here!
 
 
-### I'm a  Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who does a little bit of everything using the tools available.
+### I'm a  Software Engineer who does a little bit of everything using the tools available.
 
 
 - 🔭 I’m currently working on:
@@ -87,7 +87,7 @@
   <img src="https://komarev.com/ghpvc/?username=SauravJalui" alt="SauravJalui's Visitors" /> 
 </p>
 
-### Show some <img src="https://www.desicomments.com/dc/25/66676/66676.gif" width="25px"> by <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> some of the repositories!
+### Show some ❤ by ⭐ some of the repositories!
 
 
 
