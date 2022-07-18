@@ -4,15 +4,15 @@
 ## Hey there 👋, So nice of you to come visit me here!
 
 
-### I'm a  Software Engineer who does a little bit of everything using the tools available.
+### I'm a UI Designer/Developer.
 
 
 - 🔭 I’m currently working on:
-  -  A blog series teaching Django from scratch.
   -   Responsive Design
+  -   Frontend Design
 - 🌱 I’m currently deeply learning Frontend technologies.
 - 🥅 2022 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love riding bikes🏍️. My longest ride being Mumbai to Kolkata. 
+- ⚡ Fun fact: When I'm not in front of a computer screen, I'm riding my bike🏍️. My longest ride was from Mumbai to Kolkata in 54hrs. 
 - 💬 Ask me about anything.
 
 
@@ -87,11 +87,12 @@
   <img src="https://komarev.com/ghpvc/?username=SauravJalui" alt="SauravJalui's Visitors" /> 
 </p>
 
-### Show some ❤ by ⭐ some of the repositories!
+
 
 
 
 <!--
+### Show some ❤ by⭐ some of the repositories!
 gold star :
 https://www.bhpsnj.org/cms/lib/NJ01001806/Centricity/Domain/410/star.gif
 heart : 
