@@ -7,20 +7,9 @@
 
 
 
-### Connect with me:
-
-[<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
-[<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
-
-<br>
-<p></p>
-
-### Languages and Tools:
 
 
-
-**Currently working with:**
+### Currently working with -
 
 
 <code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -30,13 +19,18 @@
 <code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
 <code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
 <code><img height="30" title="Terminal" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"></code>
-
-
-
-**Learning:**
-
-
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
+
+
+### Connect with me -
+
+[<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
+[<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
+
+<br>
+
+### Some Stats about me -
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -81,6 +75,7 @@ VS Code                  14 hrs 36 mins      ███████████�
  Last Updated on 04/08/2022 08:36:50 UTC
 <!--END_SECTION:waka-->
 
+### Total Contributions and Streak -
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravjalui)](https://git.io/streak-stats)
 
 <!-- 
