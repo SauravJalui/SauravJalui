@@ -48,6 +48,16 @@
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          9 hrs 27 mins   ████████████████▒░░░░░░░░   64.68 %
+HTML         3 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
+Markdown     49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+SCSS         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- **Want to learn:**
