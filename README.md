@@ -64,6 +64,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravjalui)](https://git.io/streak-stats)
+
 <!-- **Want to learn:**
 
 <code><img height="30" title="Data Structures and Algorithms" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png"></code>
