@@ -17,3 +17,4 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
