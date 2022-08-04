@@ -50,6 +50,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 27 July 2022 - To: 03 August 2022
+
 Total Time: 14 hrs 36 mins
 
 CSS          9 hrs 27 mins   ████████████████▒░░░░░░░░   64.68 %
