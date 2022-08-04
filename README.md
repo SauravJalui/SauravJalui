@@ -111,8 +111,6 @@ VS Code                  14 hrs 36 mins      ███████████�
 <code><img height="30" title="Redis" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/redis.png"></code>
 <code><img height="20" title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"></code>
 <code><img height="30" title="Docker" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/docker.png"></code>
-
- -->
 [<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
 [<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
@@ -120,6 +118,8 @@ VS Code                  14 hrs 36 mins      ███████████�
 [twitter]: https://twitter.com/JaluiSaurav
 [linkedin]: https://linkedin.com/in/SauravJalui
 [email]: mailto:saurav.jalui-dev@outlook.com
+ -->
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=SauravJalui" alt="SauravJalui's Visitors" /> 
