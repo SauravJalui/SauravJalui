@@ -47,6 +47,8 @@
 
 <code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- **Want to learn:**
 
