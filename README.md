@@ -5,30 +5,15 @@
 
 ### I'm a UI Designer/Developer who loves to ride bikes.
 
-
-
-
-
 ### Currently working with -
 
-
-<code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="32" title="TailwindCSS" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/tailwindcss.png"></code>
-<code><img height="30" title="Javascript" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"></code>
-<code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
-<code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
-<code><img height="30" title="Terminal" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"></code>
-<code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
-
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,vscode,git,github,figma&theme=light)
 
 ### Connect with me -
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/SauravJalui)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/JaluiSaurav)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/jalui.saurav)
 
-[<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
-[<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
-
-<br>
 
 ### Some Stats about me -
 
@@ -101,6 +86,15 @@ VS Code                  14 hrs 36 mins      ███████████�
 
 **Previously worked with:**
 
+<code><img height="30" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="32" title="TailwindCSS" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/tailwindcss.png"></code>
+<code><img height="30" title="Javascript" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/javascript.png"></code>
+<code><img height="30" title="VScode" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/VScode.png"></code>
+<code><img height="30" title="Git" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/Git.png"></code>
+<code><img height="30" title="Terminal" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/terminal.png"></code>
+<code><img height="30" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
+
 <code><img height="32" title="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png"></code>
 <code><img height="28" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
 <code><img height="30" title="Sphinx" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/sphinx.png"></code>
@@ -119,6 +113,9 @@ VS Code                  14 hrs 36 mins      ███████████�
 <code><img height="30" title="Docker" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/docker.png"></code>
 
  -->
+[<img align="left" alt="Saurav Jalui | LinkedIn" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Saurav Jalui | Email" width="34px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/email.png" />][email]
+[<img align="left" alt="Saurav Jalui | Twitter" width="30px" src="https://github.com/SauravJalui/SauravJalui/raw/master/icons/twitter.png" />][twitter]
 
 [twitter]: https://twitter.com/JaluiSaurav
 [linkedin]: https://linkedin.com/in/SauravJalui
