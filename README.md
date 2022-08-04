@@ -1,19 +1,10 @@
-<!--![Hey there, I'm Saurav. An aspiring software developer and python fanatic. Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
+<!--![Hey there, I'm Saurav. A software developer Check out my work](https://github.com/SauravJalui/SauravJalui/raw/master/gif/Hi.gif)
 -->
 
-## Hey there 👋, So nice of you to come visit me here!
+## Hey there 👋
 
+### I'm a UI Designer/Developer who loves to ride bikes.
 
-### I'm a UI Designer/Developer.
-
-
-- 🔭 I’m currently working on:
-  -   Responsive Design
-  -   Frontend Design
-- 🌱 I’m currently deeply learning Frontend technologies.
-- 🥅 2022 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: When I'm not in front of a computer screen, I'm riding my bike🏍️. My longest ride was from Mumbai to Kolkata in 54hrs. 
-- 💬 Ask me about anything.
 
 
 ### Connect with me:
@@ -66,7 +57,18 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravjalui)](https://git.io/streak-stats)
 
-<!-- **Want to learn:**
+<!-- 
+
+- 🔭 I’m currently working on:
+  -   Responsive Design
+  -   Frontend Design
+- 🌱 I’m currently deeply learning Frontend technologies.
+- 🥅 2022 Goals: Start contributing to Open Source projects.
+- ⚡ Fun fact: When I'm not in front of a computer screen, I'm riding my bike🏍️. My longest ride was from Mumbai to Kolkata in 54hrs. 
+- 💬 Ask me about anything.
+
+**Want to learn:**
+
 
 <code><img height="30" title="Data Structures and Algorithms" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png"></code>
 <code><img height="30" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
