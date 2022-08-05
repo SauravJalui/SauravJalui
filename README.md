@@ -7,7 +7,7 @@
 
 ### Currently working with -
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,vscode,git,github,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vscode,git,github,figma&theme=light)
 
 ### Connect with me -
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/SauravJalui)
