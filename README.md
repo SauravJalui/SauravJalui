@@ -57,10 +57,11 @@ SCSS                     18 mins             █░░░░░░░░░░�
  Last Updated on 15/08/2022 18:25:36 UTC
 <!--END_SECTION:waka-->
 
-### Total Contributions and Streak -
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravjalui)](https://git.io/streak-stats)
+
 
 <!-- 
+### Total Contributions and Streak -
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravjalui)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on:
   -   Responsive Design
