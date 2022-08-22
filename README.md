@@ -3,11 +3,18 @@
 
 ## Hey there 👋
 
-### I'm a UI Designer/Developer who loves to ride bikes.
+### I'm a UI designer/developer who loves to ride bikes.
 
-### Currently working with -
+### Primary tech skills:
+#### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js&theme=light)
+#### Design
+![My Skills](https://skillicons.dev/icons?i=figma,ai,ps&theme=light)
+#### Misc
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions&theme=light)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vscode,git,github,figma&theme=light)
+###  Secondary tech skills:
+![My Skills](https://skillicons.dev/icons?i=ts,webpack,materialui,jest,svg,styledcomponents,redux,react,pug,graphql,gatsby,firebase,express,nodejs,nextjs&theme=light)
 
 ### Connect with me -
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/SauravJalui)
@@ -15,7 +22,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/jalui.saurav)
 
 
-### Some Stats about me -
+### Some stats about me -
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
