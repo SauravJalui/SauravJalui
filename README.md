@@ -13,10 +13,7 @@
 #### Misc
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions&theme=light)
 
-###  Secondary tech skills:
-![My Skills](https://skillicons.dev/icons?i=webpack,ts,materialui,jest,styledcomponents,react,redux&theme=light)
 
-![My Skills](https://skillicons.dev/icons?i=pug,graphql,gatsby,firebase,express,nodejs,nextjs&theme=light)
 
 ### Connect with me -
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/SauravJalui)
@@ -69,6 +66,12 @@ JSON                     29 mins             ██░░░░░░░░░�
 
 
 <!-- 
+
+###  Secondary tech skills:
+![My Skills](https://skillicons.dev/icons?i=webpack,ts,materialui,jest,styledcomponents,react,redux&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=pug,graphql,gatsby,firebase,express,nodejs,nextjs&theme=light)
+
 ### Total Contributions and Streak -
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravjalui)](https://git.io/streak-stats)
 
