@@ -9,7 +9,7 @@
 #### Frontend
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js&theme=light)
 #### Design
-![My Skills](https://skillicons.dev/icons?i=figma,ai,ps&theme=light)
+![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
 #### Misc
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions&theme=light)
 
@@ -68,7 +68,7 @@ JSON                     29 mins             ██░░░░░░░░░�
 <!-- 
 
 ###  Secondary tech skills:
-![My Skills](https://skillicons.dev/icons?i=webpack,ts,materialui,jest,styledcomponents,react,redux&theme=light)
+![My Skills](https://skillicons.dev/icons?i=webpack,ts,materialui,jest,styledcomponents,react,redux,ai,ps&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=pug,graphql,gatsby,firebase,express,nodejs,nextjs&theme=light)
 
