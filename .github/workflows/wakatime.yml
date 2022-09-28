@@ -22,7 +22,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: false
           SHOW_PROFILE_VIEWS: false
           SHOW_PROJECTS: false
-          SHOW_OS: false
+          SHOW_OS: true
           SHOW_TIMEZONE: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
