@@ -51,15 +51,15 @@ Sunday       29 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-XML                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/12/2022 18:20:04 UTC
+ Last Updated on 21/12/2022 18:20:05 UTC
 <!--END_SECTION:waka-->
 
 
