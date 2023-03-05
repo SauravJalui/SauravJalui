@@ -9,7 +9,7 @@
 #### Frontend
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js&theme=light)
 #### Design
-![My Skills](https://skillicons.dev/icons?i=figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=figma,ai,&theme=light)
 #### Misc
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,githubactions&theme=light)
 
